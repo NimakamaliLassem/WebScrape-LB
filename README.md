@@ -1,6 +1,7 @@
 # WebScrape-LB
 https://stackoverflow.com/a/63310964
-!pip install --proxy http://bd2007531:YapayZeka06.@proxy2.uyap.gov.tr:80 
+
+!pip install --proxy http://bd2007531:YapayZeka06.@proxy2.uyap.gov.tr:80 **package_name** 
 
 
 ## Full Video
